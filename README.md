@@ -3,7 +3,7 @@ Resort question categories Moodle plugin
 
 Requirements
 ------------
-- Moodle 3.0 (build 2015111600) or later.
+- Moodle 4.0 (build 2022041900) or later.
 
 Installation
 ------------
@@ -11,9 +11,7 @@ Copy the resortquestioncategory folder into your Moodle /local directory and vis
 
 Usage
 -----
-Question bank navigation node will be extended with "Sort categories" item. Select category you want to sort. All subcategories will
-be resorted in alphabetical order. This plugin may be useful to manage large question bank together with local_renumberquestioncategory 
-plugin.
+This plugin version just says that you need to install qbank_resortcategory. You can safely uninstall this plugin.
 
 Author
 ------
@@ -21,8 +19,8 @@ Author
 
 Links
 -----
-- Updates: https://moodle.org/plugins/view.php?plugin=local_resortquestioncategory
-- Latest code: https://github.com/vadimonus/moodle-local_resortquestioncategory
+- Updates: https://moodle.org/plugins/view.php?plugin=qbank_resortcategory
+- Latest code: https://github.com/vadimonus/moodle-qbank_resortcategory
 
 Changes
 -------
@@ -33,3 +31,6 @@ Changes
 - Release 1.1 (build 2020061300):
     - Privacy API support.
     - Question bank tabs.
+- Release 2.0 (build 2025030100)
+    - Plugin rewritten as question bank plugin.
+    - Local plugin left for transition.

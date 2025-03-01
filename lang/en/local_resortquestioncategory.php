@@ -22,7 +22,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'Resort question categories';
+$string['pluginname'] = 'Resort question categories (Legacy, use qbank_resortcategory)';
 $string['privacy:metadata'] = 'The plugin does not store any personal data.';
 $string['resortcategory'] = 'Sort categories';
 $string['resortthiscategory'] = 'Sort this category';

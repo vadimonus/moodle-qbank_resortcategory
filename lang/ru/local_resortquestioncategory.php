@@ -22,7 +22,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'Сортировка категорий вопросов';
+$string['pluginname'] = 'Сортировка категорий вопросов (Устарел, используйте qbank_resortcategory)';
 $string['privacy:metadata'] = 'Плагин не хранит персональные данные.';
 $string['resortcategory'] = 'Сортировка категорий';
 $string['resortthiscategory'] = 'Отсортировать эту категорию';
